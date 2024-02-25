@@ -6,7 +6,7 @@
 - Additional Skills: CI/CD, Node.js, AWS RDS, MongoDB, PostgreSQL, Postman, Supabase, Prisma, Colab
 
 ## Education
-- BS, Computer Science | Stony Brook University (Expected May 2025)
+BS, Computer Science | Stony Brook University (Expected May 2025)
 
 ## Professional Experience
 **Full Stack Developer Intern @ J3C (October 2023 - January 2024)**

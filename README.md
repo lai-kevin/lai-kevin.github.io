@@ -7,7 +7,6 @@
 
 ## Education
 - BS, Computer Science | Stony Brook University (Expected May 2025)
-- Awards: Dean's List, Presidential Scholarship
 
 ## Professional Experience
 **Full Stack Developer Intern @ J3C (October 2023 - January 2024)**
